@@ -1,0 +1,25 @@
+.form input{
+margin: 20px;
+width:200px;
+border-radius: 10px;
+padding: 15px;
+
+}
+.heading1{
+    text-align: center;
+    background-color: rgba(144, 147, 148, 0.651);
+    color:red;
+    padding: 10px;
+    font-size: 20px;
+}
+.heading2{
+    color: rgb(243, 126, 97);
+    margin-left: 20px;
+}
+.box{
+    border: 1px solid rgb(94, 93, 93);
+    width: 60vw;
+    border-radius: 5px;
+    margin-left: 20px;
+    color: rgb(155, 153, 151);
+}
